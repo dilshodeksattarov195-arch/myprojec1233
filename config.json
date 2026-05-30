@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productperify",
+        "uuid": 490734,
+        "checksum": "pyqtv8"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
